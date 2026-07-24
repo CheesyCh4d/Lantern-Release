@@ -17,10 +17,7 @@ Grab the latest build from the [Releases page](../../releases/latest):
 | macOS    | `Lantern-<version>-<arch>.dmg` |
 | Windows  | `Lantern-<version>-x86_64.zip` (or `-setup.exe`) |
 | Linux    | `Lantern-<version>-<arch>.AppImage` |
-| Any      | `lantern-<version>.zip` (source package) |
 
-Lantern checks for updates on its own and can update in place, so you normally only need
-to download once.
 
 ## What is Lantern?
 
