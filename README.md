@@ -1,12 +1,9 @@
 # Lantern — Releases
 
-Downloadable builds of **Lantern**, a read-only reporting interface for PowerSchool.
-
-🌐 **Website:** https://lanternreports.com
+Downloadable builds of **Lantern**, a read-only reporting and SQL interface for PowerSchool.
 
 This repository hosts release binaries only. Each version is published under
-[**Releases**](../../releases) with installers for macOS, Windows, and Linux, plus a
-universal source package.
+[**Releases**](../../releases) with installers for macOS, Windows, and Linux.
 
 ## Download
 
@@ -20,6 +17,9 @@ Grab the latest build from the [Releases page](../../releases/latest):
 
 
 ## What is Lantern?
+
+Lantern's goal is to help educators put data at the forefront of educational decision making by
+increasing the ease of access to their data.
 
 Lantern gives district staff a clean way to run **read-only** SQL reports against
 PowerSchool — with report folders, a template library, charts, pivot tables, and
@@ -35,4 +35,4 @@ Questions or access requests: https://lanternreports.com
 
 ---
 
-© 2026 Lantern. All rights reserved.
+© 2026 Chad Jacks. All rights reserved.
