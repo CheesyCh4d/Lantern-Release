@@ -26,6 +26,7 @@ Lantern gives educators (Principals, Counselors, Teachers, etc) an easy to use i
 - Build, Save, and Export Pivot Tables based on report results
 - Build, Save, and Export Charts based on pivot table results
 - Share report results via direct link
+- Curated list of ready to run reports for every district
 
 ### Back end features
 
@@ -33,6 +34,8 @@ Lantern gives educators (Principals, Counselors, Teachers, etc) an easy to use i
   - Lantern can be configured to work through a Cloudflare Tunnel, or device VPN
 - User Account Management
 - Location Management
+- The ability to Hairpin data to Powerschool via AutoComm
+- The ability to Hairpin data (users, locations) to Lantern
 - SFTP Connection Management
   - Store multiple SFTP connections in order to meet your district's needs
 - Database Connection Management
@@ -40,6 +43,7 @@ Lantern gives educators (Principals, Counselors, Teachers, etc) an easy to use i
 - Exportable Audit Log
 - Ability for admin to run SQL against Lantern's internal database
 - Pre-configured templates for building t-list SQL reports
+- SSO via Google or Microsoft OIDC
 
 ### Database Administrator features
 
@@ -51,6 +55,7 @@ Lantern gives educators (Principals, Counselors, Teachers, etc) an easy to use i
   - Lantern will suggest saving Joins if they're not in your catalogue
 - "PII" flag and configuration per report
 - Export query results in multiple formats, or move directly to the Pivot Table & Chart Builder
+- Supports connecting to Github for report syncing to Lantern
 
 Lantern does not collect or store any student information. Lantern does not collect or store any user information. Your district, your data.
 
